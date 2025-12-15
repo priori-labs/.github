@@ -1,0 +1,2 @@
+# .github
+Unstructured Labs Manifesto
