@@ -1,2 +1,2 @@
 # .github
-Unstructured Labs Manifesto
+Unstructured Labs README
