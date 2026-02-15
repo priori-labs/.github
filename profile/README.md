@@ -1,3 +1,3 @@
 # Priori Labs
 
-We are a new AI research lab studying reasoning in large language models.
+We are a new AI Products Studio 👾
